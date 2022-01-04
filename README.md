@@ -1,2 +1,3 @@
-# Hello-world
-Simple demo project 
+Hello this is Kunal 
+i am a software developer and
+i am developing one application
